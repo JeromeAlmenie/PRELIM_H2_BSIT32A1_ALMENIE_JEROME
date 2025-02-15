@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.h-1 {
+  display: block;
+  padding: 12px 6px;
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.h-2 {
+  display: block;
+  padding: 14px 8px;
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.h-3 {
+  display: block;
+  padding: 16px 10px;
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.h-4 {
+  display: block;
+  padding: 18px 12px;
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.home-content h1 {
+  font-size: 50px;
+  line-height: 1.2;
+  color: black;
+}
+
+.home-content h3 {
+  font-size: 40px;
+  color: black;
+}
+
+.home-content p {
+  font-size: 15px;
+  margin: 15px 0 30px;
+  font-style: normal;
+  color: black;
+}
